@@ -1,9 +1,10 @@
-Algoritmo SumaNumeros
-	definir num1, num2, sum1 Como Real
-	escribir "Ingrese su primer número"
+Algoritmo suma_numeros
+	definir num1, num2, Como Real
+	escribir "Ingrese su primer nÃºmero"
 	leer num1
-	escribir "Ingrese su segundo número"
+	escribir "Ingrese su segundo nÃºmero"
 	leer num2
 	sum1=num1+num2
-	escribir "La suma de los dos números es ", sum1
+	escribir "La suma de los dos nÃºmeros es ", sum1
 FinAlgoritmo
+
